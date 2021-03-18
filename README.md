@@ -14,7 +14,7 @@ C U B I C   B
 
 For running once installed python3,numpy and matplotlib, (detailed in troubleshooting.md).
 open a terminal and write:
-python3 testLayers <cifFile> scatteringTables10.csv
+python3 testLayers.py <cifFile> scatteringTables10.csv
 
 example:
 $python3 testLayers.py 3pab.cif scatteringTables10.csv

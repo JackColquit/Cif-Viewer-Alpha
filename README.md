@@ -17,7 +17,7 @@ open a terminal and write:
 python3 testLayers <cifFile> scatteringTables10.csv
 
 example:
-$python3 testLayers 3pab.cif scatteringTables10.csv
+$python3 testLayers.py 3pab.cif scatteringTables10.csv
 
 ![thePattern](image3pab.png)
 
